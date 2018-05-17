@@ -1,0 +1,9 @@
+root = true
+
+[*]
+charset = utf-8 #编码
+indent_style = space #缩进风格
+indent_size = 2 #锁紧大小2格
+end_of_line = lf #换行符的风格
+insert_final_newline = true
+trim_trailing_whitespace = true #自动移除行尾多余空格
